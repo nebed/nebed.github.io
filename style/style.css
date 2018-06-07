@@ -83,7 +83,7 @@ body {
 .slide img {
   position: absolute;
   z-index: 0;
-  transform: translatex(); //change
+  transform: translatex();
 }
 
 .slide:before {
